@@ -5,3 +5,8 @@
 .footer-copyright {
     font-size: 14px;
 }
+
+#footer.footer-simple {
+    padding: 50px 0 50px 0;
+    text-align: center;
+}
