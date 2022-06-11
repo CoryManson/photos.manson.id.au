@@ -1,0 +1,28 @@
+{
+    "Title": "2022 Liqui-Moly Bathurst 12 Hour",
+    "Category": "Motorsport",
+    "Images": [
+        "20220513-Bathurst12Hour-IMG_6817.jpg",
+        "20220513-Bathurst12Hour-IMG_7064.jpg",
+        "20220514-Bathurst12Hour-IMG_7503.jpg",
+        "20220514-Bathurst12Hour-IMG_7724.jpg",
+        "20220514-Bathurst12Hour-IMG_7905.jpg",
+        "20220514-Bathurst12Hour-IMG_7957.jpg",
+        "20220514-Bathurst12Hour-IMG_8080.jpg",
+        "20220514-Bathurst12Hour-IMG_8139.jpg",
+        "20220514-Bathurst12Hour-IMG_8164.jpg",
+        "20220514-Bathurst12Hour-IMG_8184.jpg",
+        "20220514-Bathurst12Hour-IMG_8201.jpg",
+        "20220515-Bathurst12Hour-IMG_8368.jpg",
+        "20220515-Bathurst12Hour-IMG_8383.jpg",
+        "20220515-Bathurst12Hour-IMG_8612.jpg",
+        "20220515-Bathurst12Hour-IMG_8709.jpg",
+        "20220515-Bathurst12Hour-IMG_8984.jpg",
+        "20220515-Bathurst12Hour-IMG_9107.jpg"
+    ],
+    "IgnoredFiles": [
+        "config.json",
+        "cover.jpg",
+        "index.html"
+    ]
+}
