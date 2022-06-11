@@ -62,7 +62,7 @@ foreach ($Album in $Albums) {
                             <div class="gl-item-image-wrap">
 
                                 <!-- Begin gallery list item image inner -->
-                                <a href="$($Album.FullName)/index.html" class="gl-item-image-inner">
+                                <a href="/albums/$($Album.Parent.Name)/$($Album.Name)/index.html" class="gl-item-image-inner">
                                     <div class="gl-item-image bg-image"
                                         style="background-image: url($($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/cover.jpg); background-position: 50% 50%">
                                     </div>
@@ -77,7 +77,7 @@ foreach ($Album in $Albums) {
                             <!-- Begin gallery list item info -->
                             <div class="gl-item-info">
                                 <div class="gl-item-caption">
-                                    <h2 class="gl-item-title"><a href="$($Album.FullName)/index.html">$($Config.Title)</a></h2>
+                                    <h2 class="gl-item-title"><a href="/albums/$($Album.Parent.Name)/$($Album.Name)/index.html">$($Config.Title)</a></h2>
                                     <span class="gl-item-category">$($Album.Parent.Name) - $($Config.Category)</span>
                                 </div>
                             </div>
