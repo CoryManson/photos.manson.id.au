@@ -607,7 +607,7 @@
 
 		// thumbnial plugin
 		thumbnail: true, // Enable thumbnails for the gallery.
-		showThumbByDefault: false, // Show/hide thumbnails by default.
+		showThumbByDefault: true, // Show/hide thumbnails by default.
 		thumbMargin: 5, // Spacing between each thumbnails.
 		toogleThumb: true, // Whether to display thumbnail toggle button.
 		enableThumbSwipe: true, // Enables thumbnail touch/swipe support for touch devices.
