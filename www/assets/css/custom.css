@@ -10,3 +10,8 @@
     padding: 50px 0 50px 0;
     text-align: center;
 }
+
+#header.menu-align-center {
+    text-align: center;
+    margin-bottom: .5%;
+}
