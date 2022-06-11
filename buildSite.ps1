@@ -22,11 +22,6 @@ foreach ($Album in $Albums) {
         $Extension = ($Image).Split('.')[-1]
         $ThumbnailFile = ($Image).Split('.')[0] + "-thumb." + $Extension
         $GalleryItemBlock = @"
-        <!-- ===================== 
-        /// Begin isotope item ///
-        ========================== 
-        * If you use background image on isotope-item child element, then you need to use class "iso-height-1" or "iso-height-2" to set the item height. If you use simple image tag, then don't use height classes.
-        -->
         <div class="isotope-item">
 
             <!-- Begin gallery single item -->
