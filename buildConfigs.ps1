@@ -43,32 +43,31 @@ function Get-FileMetaData {
     return New-Object PSObject -Property $hash
 }
 
-$Configs = Get-ChildItem "www/albums/" -File -Recurse | Where-Object { $_.Name -eq "config.json" }
+$Years = Get-ChildItem -Path "www/albums/" -Directory | Sort-Object $_.Name -Descending
 
-foreach ($Config in $Configs) {
-    $Year = ($Config.Directory.FullName -split '\\')[-2]
-    $Album = $Config.Directory.Name
-    $ImageDirectory = Join-Path $ImagesPath $Year $Album
-    $Images = Get-ChildItem $ImageDirectory -Exclude "*-thumb.jpg", "cover.jpg"
-    $JSON = Get-Content $Config -Raw | ConvertFrom-Json
-    $Array = @()
+foreach ($Year in $Years) {
+    $Albums = Get-Content "$($Year.FullName)/albums.json" | ConvertFrom-Json
 
-    foreach ($Image in $Images) {
-        $EXIFData = Get-FileMetaData $Image.FullName
-        $Properties = [PSCustomObject]@{
-            Name         = $Image.Name
-            CameraModel  = $EXIFData.'Camera model'
-            ExposureTime = $EXIFData.'Exposure time' -replace '\P{IsBasicLatin}'
-            FStop        = $EXIFData.'F-stop'
-            FocalLength  = $EXIFData.'Focal length' -replace '\P{IsBasicLatin}'
-            IsoSpeed     = $EXIFData.'ISO speed'
+    foreach ($Album in $Albums) {
+        $ConfigPath = Join-Path $Year.FullName $Album.Name "images.json"
+        $Images = Get-ChildItem (Join-Path $ImagesPath $Year.Name $Album.Name) -Exclude "*-thumb.jpg", "cover.jpg"
+        $ConfigArray = @()
+
+        foreach ($Image in $Images) {
+            $EXIFData = Get-FileMetaData $Image.FullName
+            $Properties = [PSCustomObject]@{
+                Name         = $Image.Name
+                CameraModel  = $EXIFData.'Camera model'
+                ExposureTime = $EXIFData.'Exposure time' -replace '\P{IsBasicLatin}'
+                FStop        = $EXIFData.'F-stop'
+                FocalLength  = $EXIFData.'Focal length' -replace '\P{IsBasicLatin}'
+                IsoSpeed     = $EXIFData.'ISO speed'
+            }
+            $ConfigArray += $Properties
         }
-        $Array += $Properties
-    }
 
-    $Properties = [PSCustomObject]@{
-        Title    = $JSON.Title
-        Category = $JSON.Category
-        Images   = $Array
-    } | ConvertTo-Json | Out-File $Config -Force
+        $Properties = [PSCustomObject]@{
+            Images = $ConfigArray
+        } | ConvertTo-Json | Out-File $ConfigPath -Force
+    }
 }

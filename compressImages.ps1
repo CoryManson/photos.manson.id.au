@@ -20,5 +20,5 @@ foreach ($Image in $Images) {
         continue
     }
 
-    & "C:\Users\cory\Downloads\mozjpeg-v4.0.3-win-x64\shared\Release\cjpeg.exe" -quality 90 -sample 1x1 -quant-table 2 -progressive -optimize -OutFile $Dest $Image.FullName
+    & ".\cjpeg.exe" -quality 90 -sample 1x1 -quant-table 2 -progressive -optimize -OutFile $Dest $Image.FullName
 }
