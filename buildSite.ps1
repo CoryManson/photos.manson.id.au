@@ -7,17 +7,16 @@ $ImageRootUri = "https://mansonphotography.azureedge.net/images"
 foreach ($Year in $Years) {
     $Albums = Get-Content -Path "$($Year.FullName)/albums.json" | ConvertFrom-Json
     foreach ($Album in $Albums) {
-        $ConfigPath = Join-Path $Year.FullName $Album.Name "images.json"
+        $ImagesConfig = Join-Path $Year.FullName $Album.Name "images.json"
 
         if ((Test-Path $ConfigPath) -ne $true) {
             Write-Host "[$($Album.Name)]: Missing images.json, skipping.."
             continue
         }
         else {
-            $Config = Get-Content -Path $ConfigPath | ConvertFrom-Json
+            $Images = (Get-Content -Path $ImagesConfig | ConvertFrom-Json).Images
         }
 
-        $Images = $Config.Images
         $GalleryItems = ""
 
         foreach ($Image in $Images) {
@@ -74,8 +73,8 @@ foreach ($Year in $Years) {
                             <!-- Begin gallery list item info -->
                             <div class="gl-item-info">
                                 <div class="gl-item-caption">
-                                    <h2 class="gl-item-title"><a href="/albums/$($Year.Name)/$($Album.Name)">$($Config.Title)</a></h2>
-                                    <span class="gl-item-category">$($Year.Name) - $($Config.Category)</span>
+                                    <h2 class="gl-item-title"><a href="/albums/$($Year.Name)/$($Album.Name)">$($Album.Title)</a></h2>
+                                    <span class="gl-item-category">$($Year.Name) - $($Album.Category)</span>
                                 </div>
                             </div>
                             <!-- End gallery list item info -->
