@@ -15,3 +15,24 @@
     text-align: center;
     margin-bottom: .5%;
 }
+
+.gallery-item {
+    width: 500px;
+}
+
+.gallery-item>img {
+    border-radius: 5px;
+}
+
+.gallery-container>a {
+    max-width: 500px;
+    max-height: 500px;
+    padding: 1em;
+    display: inline-block;
+}
+
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

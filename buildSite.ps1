@@ -23,20 +23,13 @@ foreach ($Year in $Years) {
             $Extension = ($Image.Name).Split('.')[-1]
             $ThumbnailFile = ($Image.Name).Split('.')[0] + "-thumb." + $Extension
             $GalleryItemBlock = @"
-            <div class="isotope-item">
 
-                <!-- Begin gallery single item -->
-                <a href="$($ImageRootUri)/$($Year.Name)/$($Album.Name)/$($Image.Name)"
-                    class="gallery-single-item lg-trigger"
-                    data-exthumbnail="$($ImageRootUri)/$($Year.Name)/$($Album.Name)/$($ThumbnailFile)" data-sub-html="$($Image.CameraModel) @ $($Image.FStop) | $($Image.ExposureTime) | $($Image.FocalLength) | $($Image.IsoSpeed)">
-
-                    <img src="$($ImageRootUri)/$($Year.Name)/$($Album.Name)/$($Image.Name)"
-                        class="gs-item-image" alt="">
-                </a>
-                <!-- End gallery single item -->
-
-            </div>
-            <!-- End isotope item -->
+                    <a class="gallery-item"
+						data-src="$($ImageRootUri)/$($Year.Name)/$($Album.Name)/$($Image.Name)"
+						data-sub-html="$($Image.CameraModel) @ $($Image.FStop) | $($Image.ExposureTime) | $($Image.FocalLength) | $($Image.IsoSpeed)">
+						<img class="img-responsive"
+							src="$($ImageRootUri)/$($Year.Name)/$($Album.Name)/$($ThumbnailFile)" />
+					</a>
 
 "@
             $GalleryItems = $GalleryItems + $GalleryItemBlock
