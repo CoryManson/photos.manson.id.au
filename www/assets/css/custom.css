@@ -30,3 +30,9 @@
     padding: 1em;
     display: inline-block;
 }
+
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
