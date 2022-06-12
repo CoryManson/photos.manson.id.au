@@ -9,7 +9,7 @@ foreach ($Year in $Years) {
     foreach ($Album in $Albums) {
         $ImagesConfig = Join-Path $Year.FullName $Album.Name "images.json"
 
-        if ((Test-Path $ConfigPath) -ne $true) {
+        if ((Test-Path $ImagesConfig) -ne $true) {
             Write-Host "[$($Album.Name)]: Missing images.json, skipping.."
             continue
         }
