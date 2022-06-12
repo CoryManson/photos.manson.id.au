@@ -19,17 +19,17 @@ foreach ($Album in $Albums) {
     $GalleryItems = ""
 
     foreach ($Image in $Images) {
-        $Extension = ($Image).Split('.')[-1]
-        $ThumbnailFile = ($Image).Split('.')[0] + "-thumb." + $Extension
+        $Extension = ($Image.Name).Split('.')[-1]
+        $ThumbnailFile = ($Image.Name).Split('.')[0] + "-thumb." + $Extension
         $GalleryItemBlock = @"
         <div class="isotope-item">
 
             <!-- Begin gallery single item -->
-            <a href="$($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/$($Image)"
+            <a href="$($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/$($Image.Name)"
                 class="gallery-single-item lg-trigger"
-                data-exthumbnail="$($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/$($ThumbnailFile)">
+                data-exthumbnail="$($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/$($ThumbnailFile)" data-sub-html="$($Image.CameraModel) @ $($Image.FStop) | $($Image.ExposureTime) | $($Image.FocalLength) | $($Image.IsoSpeed)">
 
-                <img src="$($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/$($Image)"
+                <img src="$($ImageRootUri)/$($Album.Parent.Name)/$($Album.Name)/$($Image.Name)"
                     class="gs-item-image" alt="">
             </a>
             <!-- End gallery single item -->

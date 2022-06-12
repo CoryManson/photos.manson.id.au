@@ -1,13 +1,62 @@
 {
-    "Title": "Australia National Botanical Gardens",
-    "Category": "Nature",
-    "Images": [
-        "2019-10-07-13h25m50.jpg",
-        "2019-10-07-13h27m10.jpg",
-        "2019-10-07-13h41m02.jpg",
-        "2019-10-07-13h47m44.jpg",
-        "2019-10-07-13h49m33.jpg",
-        "2019-10-07-13h50m09.jpg",
-        "2019-10-07-14h07m56.jpg"
-    ]
+  "Title": "Australia National Botanical Gardens",
+  "Category": "Nature",
+  "Images": [
+    {
+      "Name": "2019-10-07-13h25m50.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2019-10-07-13h27m10.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2019-10-07-13h41m02.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-07-13h47m44.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-1250"
+    },
+    {
+      "Name": "2019-10-07-13h49m33.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5",
+      "FocalLength": "278 mm",
+      "IsoSpeed": "ISO-3200"
+    },
+    {
+      "Name": "2019-10-07-13h50m09.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5",
+      "FocalLength": "255 mm",
+      "IsoSpeed": "ISO-3200"
+    },
+    {
+      "Name": "2019-10-07-14h07m56.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-100"
+    }
+  ]
 }

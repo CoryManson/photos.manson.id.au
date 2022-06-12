@@ -1,30 +1,198 @@
 {
-    "Title": "Canberra Brick Expo",
-    "Category": "Lego",
-    "Images": [
-        "2018-08-12-14h49m59.jpg",
-        "2018-08-12-14h54m59.jpg",
-        "2018-08-12-15h00m57.jpg",
-        "2018-08-12-15h09m03.jpg",
-        "2018-08-12-15h09m09.jpg",
-        "2018-08-12-15h10m06.jpg",
-        "2018-08-12-15h10m55.jpg",
-        "2018-08-12-15h13m16.jpg",
-        "2018-08-12-15h14m14.jpg",
-        "2018-08-12-15h19m00.jpg",
-        "2018-08-12-15h22m34.jpg",
-        "2018-08-12-15h24m51.jpg",
-        "2018-08-12-15h27m15.jpg",
-        "2018-08-12-15h29m11.jpg",
-        "2018-08-12-15h31m28.jpg",
-        "2018-08-12-15h32m36.jpg",
-        "2018-08-12-15h36m09.jpg",
-        "2018-08-12-15h36m58.jpg",
-        "2018-08-12-15h44m58.jpg",
-        "2018-08-12-15h46m09.jpg",
-        "2018-08-12-15h47m05.jpg",
-        "2018-08-12-16h01m24.jpg",
-        "2018-08-12-16h03m06.jpg",
-        "2018-08-12-16h05m15.jpg"
-    ]
+  "Title": "Canberra Brick Expo",
+  "Category": "Lego",
+  "Images": [
+    {
+      "Name": "2018-08-12-14h49m59.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/30 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-14h54m59.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/50 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h00m57.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h09m03.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/50 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h09m09.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/200 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h10m06.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/13 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h10m55.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/5 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h13m16.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/8 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h14m14.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/20 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h19m00.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/30 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h22m34.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/30 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h24m51.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/60 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h27m15.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/80 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h29m11.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/13 sec.",
+      "FStop": "f/8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-1600"
+    },
+    {
+      "Name": "2018-08-12-15h31m28.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/25 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h32m36.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/25 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h36m09.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/60 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h36m58.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/100 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-15h44m58.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/200 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h46m09.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-15h47m05.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/1.8",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-400"
+    },
+    {
+      "Name": "2018-08-12-16h01m24.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/40 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-16h03m06.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/50 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "2018-08-12-16h05m15.jpg",
+      "CameraModel": "NIKON D3400",
+      "ExposureTime": "1/20 sec.",
+      "FStop": "f/4",
+      "FocalLength": "35 mm",
+      "IsoSpeed": "ISO-800"
+    }
+  ]
 }

@@ -1,30 +1,198 @@
 {
-    "Title": "Netier National Capital Rally",
-    "Category": "Motorsport",
-    "Images": [
-        "2019-05-11-10h55m52.jpg",
-        "2019-05-11-11h09m53.jpg",
-        "2019-05-11-11h16m12.jpg",
-        "2019-05-11-11h29m52.jpg",
-        "2019-05-11-11h31m58.jpg",
-        "2019-05-11-11h39m58.jpg",
-        "2019-05-11-11h41m59.jpg",
-        "2019-05-11-11h44m00.jpg",
-        "2019-05-11-11h58m09.jpg",
-        "2019-05-11-13h06m04.jpg",
-        "2019-05-11-13h06m13.jpg",
-        "2019-05-11-13h19m41.jpg",
-        "2019-05-11-13h23m12.jpg",
-        "2019-05-11-13h23m31.jpg",
-        "2019-05-11-13h24m47.jpg",
-        "2019-05-11-13h40m54.jpg",
-        "2019-05-11-13h55m37.jpg",
-        "2019-05-11-15h41m47.jpg",
-        "2019-05-11-15h49m49.jpg",
-        "2019-05-11-15h49m50.jpg",
-        "2019-05-11-15h56m00.jpg",
-        "2019-05-11-16h11m52.jpg",
-        "2019-05-11-16h15m52.jpg",
-        "2019-05-11-16h19m58.jpg"
-    ]
+  "Title": "Netier National Capital Rally",
+  "Category": "Motorsport",
+  "Images": [
+    {
+      "Name": "2019-05-11-10h55m52.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "110 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h09m53.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/5",
+      "FocalLength": "56 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h16m12.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/125 sec.",
+      "FStop": "f/6.3",
+      "FocalLength": "27 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h29m52.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/6.3",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h31m58.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/200 sec.",
+      "FStop": "f/6.3",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h39m58.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/60 sec.",
+      "FStop": "f/8",
+      "FocalLength": "140 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h41m59.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/40 sec.",
+      "FStop": "f/13",
+      "FocalLength": "135 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h44m00.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/40 sec.",
+      "FStop": "f/13",
+      "FocalLength": "142 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-11h58m09.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "145 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h06m04.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/100 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "46 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h06m13.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/500 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h19m41.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h23m12.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1600 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "34 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h23m31.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/500 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "67 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h24m47.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/640 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h40m54.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/125 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-13h55m37.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/800 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "27 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-15h41m47.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/500 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "24 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-15h49m49.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/40 sec.",
+      "FStop": "f/8",
+      "FocalLength": "33 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-15h49m50.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/40 sec.",
+      "FStop": "f/8",
+      "FocalLength": "33 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-15h56m00.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/40 sec.",
+      "FStop": "f/8",
+      "FocalLength": "24 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-05-11-16h11m52.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-320"
+    },
+    {
+      "Name": "2019-05-11-16h15m52.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-2000"
+    },
+    {
+      "Name": "2019-05-11-16h19m58.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    }
+  ]
 }

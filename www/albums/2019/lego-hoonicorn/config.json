@@ -1,13 +1,62 @@
 {
-    "Title": "Lego Hoonicorn",
-    "Category": "Lego",
-    "Images": [
-        "2019-06-27-00h07m22.jpg",
-        "2019-06-27-00h13m03.jpg",
-        "2019-06-27-00h14m47.jpg",
-        "2019-06-27-00h15m29.jpg",
-        "2019-06-27-00h17m14.jpg",
-        "2019-06-27-00h21m27.jpg",
-        "2019-06-27-00h25m27.jpg"
-    ]
+  "Title": "Lego Hoonicorn",
+  "Category": "Lego",
+  "Images": [
+    {
+      "Name": "2019-06-27-00h07m22.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-2000"
+    },
+    {
+      "Name": "2019-06-27-00h13m03.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/4 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-06-27-00h14m47.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/15 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-06-27-00h15m29.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/15 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-06-27-00h17m14.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/8 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-06-27-00h21m27.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "0.6 sec.",
+      "FStop": "f/8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-06-27-00h25m27.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "0.6 sec.",
+      "FStop": "f/8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-200"
+    }
+  ]
 }

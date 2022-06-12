@@ -1,12 +1,54 @@
 {
-    "Title": "Astrophotography",
-    "Category": "Astrophotography",
-    "Images": [
-        "2018-06-19-22h05m23.jpg",
-        "2018-06-21-21h43m19.jpg",
-        "2018-06-21-21h48m33.jpg",
-        "2018-06-21-22h51m04.jpg",
-        "20220317011606-ce59eb3e.jpg",
-        "20220317011617-b60b9bf7.jpg"
-    ]
+  "Title": "Astrophotography",
+  "Category": "Astrophotography",
+  "Images": [
+    {
+      "Name": "2018-06-19-22h05m23.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "50 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "14 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2018-06-21-21h43m19.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "4 sec.",
+      "FStop": "f/2.2",
+      "FocalLength": "14 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2018-06-21-21h48m33.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "10 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2018-06-21-22h51m04.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "4 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "85 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220317011606-ce59eb3e.jpg",
+      "CameraModel": null,
+      "ExposureTime": "",
+      "FStop": null,
+      "FocalLength": "",
+      "IsoSpeed": null
+    },
+    {
+      "Name": "20220317011617-b60b9bf7.jpg",
+      "CameraModel": null,
+      "ExposureTime": "",
+      "FStop": null,
+      "FocalLength": "",
+      "IsoSpeed": null
+    }
+  ]
 }

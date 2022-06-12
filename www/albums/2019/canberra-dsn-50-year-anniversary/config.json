@@ -1,15 +1,78 @@
 {
-    "Title": "50th Anniversay of the Moon Landing",
-    "Category": "Space",
-    "Images": [
-        "2019-07-21-14h40m25.jpg",
-        "2019-07-21-14h43m15.jpg",
-        "2019-07-21-15h04m05.jpg",
-        "2019-07-21-15h11m01.jpg",
-        "2019-07-21-15h32m47.jpg",
-        "2019-07-21-15h34m27.jpg",
-        "2019-07-21-15h41m56.jpg",
-        "2019-07-21-15h50m42.jpg",
-        "2019-07-21-20h32m33.jpg"
-    ]
+  "Title": "50th Anniversay of the Moon Landing",
+  "Category": "Space",
+  "Images": [
+    {
+      "Name": "2019-07-21-14h40m25.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1600 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-14h43m15.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/2500 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "38 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-15h04m05.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/500 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-15h11m01.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "47 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-15h32m47.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "57 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-15h34m27.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "46 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-15h41m56.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/800 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "48 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-15h50m42.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/2000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "145 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-07-21-20h32m33.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "6 sec.",
+      "FStop": "f/13",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-100"
+    }
+  ]
 }

@@ -1,28 +1,142 @@
 {
-    "Title": "2022 Liqui-Moly Bathurst 12 Hour",
-    "Category": "Motorsport",
-    "Images": [
-        "20220513-Bathurst12Hour-IMG_6817.jpg",
-        "20220513-Bathurst12Hour-IMG_7064.jpg",
-        "20220514-Bathurst12Hour-IMG_7503.jpg",
-        "20220514-Bathurst12Hour-IMG_7724.jpg",
-        "20220514-Bathurst12Hour-IMG_7905.jpg",
-        "20220514-Bathurst12Hour-IMG_7957.jpg",
-        "20220514-Bathurst12Hour-IMG_8080.jpg",
-        "20220514-Bathurst12Hour-IMG_8139.jpg",
-        "20220514-Bathurst12Hour-IMG_8164.jpg",
-        "20220514-Bathurst12Hour-IMG_8184.jpg",
-        "20220514-Bathurst12Hour-IMG_8201.jpg",
-        "20220515-Bathurst12Hour-IMG_8368.jpg",
-        "20220515-Bathurst12Hour-IMG_8383.jpg",
-        "20220515-Bathurst12Hour-IMG_8612.jpg",
-        "20220515-Bathurst12Hour-IMG_8709.jpg",
-        "20220515-Bathurst12Hour-IMG_8984.jpg",
-        "20220515-Bathurst12Hour-IMG_9107.jpg"
-    ],
-    "IgnoredFiles": [
-        "config.json",
-        "cover.jpg",
-        "index.html"
-    ]
+  "Title": "2022 Liqui-Moly Bathurst 12 Hour",
+  "Category": "Motorsport",
+  "Images": [
+    {
+      "Name": "20220513-Bathurst12Hour-IMG_6817.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/100 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-1000"
+    },
+    {
+      "Name": "20220513-Bathurst12Hour-IMG_7064.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/80 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-2000"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_7503.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/6.3",
+      "FocalLength": "30 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_7724.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1600 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "110 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_7905.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/80 sec.",
+      "FStop": "f/8",
+      "FocalLength": "170 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_7957.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/640 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_8080.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/125 sec.",
+      "FStop": "f/5",
+      "FocalLength": "115 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_8139.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "145 mm",
+      "IsoSpeed": "ISO-800"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_8164.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "110 mm",
+      "IsoSpeed": "ISO-125"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_8184.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/640 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "100 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220514-Bathurst12Hour-IMG_8201.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "75 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220515-Bathurst12Hour-IMG_8368.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/2 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-160"
+    },
+    {
+      "Name": "20220515-Bathurst12Hour-IMG_8383.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "10 sec.",
+      "FStop": "f/5",
+      "FocalLength": "42 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220515-Bathurst12Hour-IMG_8612.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/50 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "168 mm",
+      "IsoSpeed": "ISO-1250"
+    },
+    {
+      "Name": "20220515-Bathurst12Hour-IMG_8709.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/80 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-1600"
+    },
+    {
+      "Name": "20220515-Bathurst12Hour-IMG_8984.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-500"
+    },
+    {
+      "Name": "20220515-Bathurst12Hour-IMG_9107.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/50 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "38 mm",
+      "IsoSpeed": "ISO-200"
+    }
+  ]
 }

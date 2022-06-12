@@ -1,12 +1,54 @@
 {
-    "Title": "Tidbinbilla Nature Resever",
-    "Category": "Nature",
-    "Images": [
-        "2019-04-22-15h22m31.jpg",
-        "2019-04-22-15h33m34.jpg",
-        "2019-04-22-15h34m36.jpg",
-        "2019-04-22-15h39m25.jpg",
-        "2019-04-22-16h23m29.jpg",
-        "2019-04-22-16h39m34.jpg"
-    ]
+  "Title": "Tidbinbilla Nature Resever",
+  "Category": "Nature",
+  "Images": [
+    {
+      "Name": "2019-04-22-15h22m31.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-1000"
+    },
+    {
+      "Name": "2019-04-22-15h33m34.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "260 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-04-22-15h34m36.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-160"
+    },
+    {
+      "Name": "2019-04-22-15h39m25.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-200"
+    },
+    {
+      "Name": "2019-04-22-16h23m29.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "400 mm",
+      "IsoSpeed": "ISO-1000"
+    },
+    {
+      "Name": "2019-04-22-16h39m34.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/5.6",
+      "FocalLength": "140 mm",
+      "IsoSpeed": "ISO-1600"
+    }
+  ]
 }

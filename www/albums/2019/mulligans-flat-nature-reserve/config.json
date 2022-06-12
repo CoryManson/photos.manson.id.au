@@ -1,14 +1,70 @@
 {
-    "Title": "Mulligans Flat Nature Reserve",
-    "Category": "Nature",
-    "Images": [
-        "2019-10-12-10h58m31.jpg",
-        "2019-10-12-10h59m04.jpg",
-        "2019-10-12-11h13m58.jpg",
-        "2019-10-12-11h51m05.jpg",
-        "2019-10-12-12h34m46.jpg",
-        "2019-10-12-12h36m25.jpg",
-        "2019-10-12-14h51m52.jpg",
-        "2019-10-12-14h52m52.jpg"
-    ]
+  "Title": "Mulligans Flat Nature Reserve",
+  "Category": "Nature",
+  "Images": [
+    {
+      "Name": "2019-10-12-10h58m31.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/2000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "95 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-10h59m04.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/640 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "95 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-11h13m58.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/640 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-11h51m05.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/500 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-12h34m46.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/800 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "155 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-12h36m25.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-14h51m52.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/400 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "110 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "2019-10-12-14h52m52.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    }
+  ]
 }
