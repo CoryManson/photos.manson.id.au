@@ -47,7 +47,7 @@ foreach ($Year in $Years) {
         $HTML = $AlbumTemplate
         $HTML = $HTML -replace ('##TITLE##', "$($Album.Title) - Cory Manson Photography")
         $HTML = $HTML -replace ('##GALLERYITEMS##', $GalleryItems)
-        $HTML | Out-File -FilePath "$($Album.FullName)/index.html" -Force
+        $HTML | Out-File -FilePath (Join-Path $Year.FullName $Album.Name "index.html") -Force
 
         $HomeItemBlock = @"
                         <div class="isotope-item iso-height-1">
