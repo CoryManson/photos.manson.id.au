@@ -1,5 +1,12 @@
-{
-    "Name": "bathurst-12-hour",
-    "Title": "2022 Liqui-Moly Bathurst 12 Hour",
-    "Category": "Motorsport"
-}
+[
+    {
+        "Name": "mogo-zoo",
+        "Title": "Mogo Wildlife Park",
+        "Category": "Nature"
+    },
+    {
+        "Name": "bathurst-12-hour",
+        "Title": "2022 Liqui-Moly Bathurst 12 Hour",
+        "Category": "Motorsport"
+    }
+]

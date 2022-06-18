@@ -53,6 +53,10 @@ foreach ($Year in $Years) {
         $Images = Get-ChildItem (Join-Path $ImagesPath $Year.Name $Album.Name) -Exclude "*-thumb.jpg", "cover.jpg"
         $ConfigArray = @()
 
+        if ((Test-Path $ConfigPath) -eq $false) {
+            New-Item -Path (Join-Path $Year.FullName $Album.Name) -ItemType Directory -Force 
+        }
+
         foreach ($Image in $Images) {
             $EXIFData = Get-FileMetaData $Image.FullName
             $Properties = [PSCustomObject]@{
