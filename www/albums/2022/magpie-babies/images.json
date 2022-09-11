@@ -1,0 +1,44 @@
+{
+  "Images": [
+    {
+      "Name": "20220911-Magpies-IMG_2262.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-320"
+    },
+    {
+      "Name": "20220911-Magpies-IMG_2268.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "200 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220911-Magpies-IMG_2283.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/400 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "155 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20220911-Magpies-IMG_2315.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/320 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "135 mm",
+      "IsoSpeed": "ISO-250"
+    },
+    {
+      "Name": "20220911-Magpies-IMG_2322.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "135 mm",
+      "IsoSpeed": "ISO-200"
+    }
+  ]
+}
