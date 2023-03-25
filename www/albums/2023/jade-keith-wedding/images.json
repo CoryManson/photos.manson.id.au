@@ -1,0 +1,68 @@
+{
+  "Images": [
+    {
+      "Name": "20230323-KeithJade-IMG_2926.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/800 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "44 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_2941.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/800 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "44 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_3083.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1000 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "34 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_3092.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/1250 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "34 mm",
+      "IsoSpeed": "ISO-100"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_3147.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/125 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "38 mm",
+      "IsoSpeed": "ISO-125"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_3168.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/4",
+      "FocalLength": "70 mm",
+      "IsoSpeed": "ISO-1600"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_3193.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/160 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "67 mm",
+      "IsoSpeed": "ISO-1600"
+    },
+    {
+      "Name": "20230323-KeithJade-IMG_3224.jpg",
+      "CameraModel": "Canon EOS 6D Mark II",
+      "ExposureTime": "1/125 sec.",
+      "FStop": "f/2.8",
+      "FocalLength": "36 mm",
+      "IsoSpeed": "ISO-500"
+    }
+  ]
+}
